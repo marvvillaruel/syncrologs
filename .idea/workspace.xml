@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c573ac3-7db7-4eed-a37b-f4f13e3e8191" name="Changes" comment="" />
+    <list default="true" id="6c573ac3-7db7-4eed-a37b-f4f13e3e8191" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/cabin.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/cabin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/indexesImage.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/indexesImage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +34,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Repository/hannahandmarvin-wed"
+    "last_opened_file_path": "C:/Repository/syncrologsEvites"
   }
 }]]></component>
   <component name="RecentsManager">
